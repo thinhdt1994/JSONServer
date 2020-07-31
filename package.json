@@ -1,0 +1,24 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "jsonserver for d2 cv generator",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhdt1994/JSONServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinhdt1994/JSONServer/issues"
+  },
+  "homepage": "https://github.com/thinhdt1994/JSONServer#readme"
+}
